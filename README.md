@@ -17,9 +17,7 @@ To create a 3D model from given orthographic projection.
 
 ![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
-
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch
 
 5.	Use inspect feature to measure the dimensions of sketch.
 
@@ -30,9 +28,6 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
 
 7.	Use extrude option to convert 3D model from sketch
-
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
-
 8.	After finishing the model convert to drawing sheet per  ISO standard.
 
 ![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
